@@ -1,1 +1,26 @@
-write here 
+General Notes
+
+    https://bitvijays.github.io/LFC-VulnerableMachines.html
+    http://blog.knapsy.com/blog/2014/10/07/basic-shellshock-exploitation/
+    http://www.studfiles.ru/preview/2083097/page:7/
+    http://126kr.com/article/3vbt0k8fxwh
+    http://meyerweb.com/eric/tools/dencoder/
+    https://www.darkoperator.com/powershellbasics
+    https://wooly6bear.files.wordpress.com/2016/01/bwapp-tutorial.pdf 
+    http://alexflor.es/security-blog/post/egress-ports/ 
+    https://www.exploit-db.com/papers/13017/ 
+    https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project
+    http://explainshell.com/
+    https://pentestlab.blog/2012/11/29/bypassing-file-upload-restrictions/
+    https://github.com/g0tmi1k/mpc
+    https://www.reddit.com/r/netsecstudents/comments/5fwc1z/failed_the_oscp_any_tips_for_the_next_attempt/danovo5/
+    https://security.stackexchange.com/questions/110673/how-to-find-windows-version-from-the-file-on-a-remote-system
+    https://www.veil-framework.com/veil-tutorial/ (AV Evasion)
+    https://blog.propriacausa.de/wp-content/uploads/2016/07/oscp_notes.html
+    https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/ 
+    
+    
+    
+
+
+reddit import
