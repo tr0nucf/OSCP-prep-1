@@ -1,2 +1,2 @@
 # OSCP-prep
-collection my oscp prep toolbox & some other stuff 
+collection of my oscp prep toolbox 
