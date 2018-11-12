@@ -1,6 +1,6 @@
 Backdoors/Web Shells
 
-    http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+    http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet 
     https://highon.coffee/blog/reverse-shell-cheat-sheet/
     http://pentestmonkey.net/tools/web-shells/php-reverse-shell
     http://pentestmonkey.net/tools/web-shells/perl-reverse-shell
@@ -18,11 +18,6 @@ Buffer Overflows
     http://justpentest.blogspot.ca/2015/07/minishare1.4.1-bufferoverflow.html
     https://samsclass.info/127/proj/vuln-server.htm
     http://www.bulbsecurity.com/finding-bad-characters-with-immunity-debugger-and-mona-py/
-
-Information Gathering/Reconnaissance
-
-http://www.0daysecurity.com/penetration-testing/enumeration.html
-
 
 
 Cross-Compilation
@@ -175,11 +170,3 @@ Windows Privilege Escalation
     http://www.blackhillsinfosec.com/?p=5824
     https://www.commonexploits.com/unquoted-service-paths/
     https://github.com/abatchy17/WindowsExploits
-
-
-
-
-
-
-
- nmap --script https://nmap.org/nsedoc/categories/exploit.html
