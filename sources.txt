@@ -12,7 +12,7 @@ Backdoors/Web Shells
     http://securityweekly.com/2011/10/23/python-one-line-shell-code/
 
 
-Cross-Compilation
+Cross-Compilation [exloits]
 
     https://arrayfire.com/cross-compile-to-windows-from-linux/
 
@@ -50,6 +50,7 @@ Fuzzing Payloads
     https://github.com/danielmiessler/SecLists
 
 Ignore SSL in python scripts : http://stackoverflow.com/questions/19268548/python-ignore-certicate-validation-urllib2
+
 Jailed Shell Escape
 
     http://netsec.ws/?p=337
@@ -83,13 +84,6 @@ MSFVenom Payloads
     http://netsec.ws/?p=331
     https://www.offensive-security.com/metasploit-unleashed/msfvenom/
     http://www.blackhillsinfosec.com/?p=4935
-
-Port Scanning
-
-    https://highon.coffee/blog/nmap-cheat-sheet/
-    https://nmap.org/nsedoc/
-    https://github.com/superkojiman/onetwopunch
-    http://kalilinuxtutorials.com/unicornscan/
 
 Password Cracking
 
