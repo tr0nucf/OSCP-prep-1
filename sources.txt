@@ -11,14 +11,6 @@ Backdoors/Web Shells
     http://www.acunetix.com/blog/articles/web-shells-101-using-php-introduction-web-shells-part-2/
     http://securityweekly.com/2011/10/23/python-one-line-shell-code/
 
-Buffer Overflows
-
-    http://www.primalsecurity.net/0x0-exploit-tutorial-buffer-overflow-vanilla-eip-overwrite-2/
-    http://proactivedefender.blogspot.ca/2013/05/understanding-buffer-overflows.html
-    http://justpentest.blogspot.ca/2015/07/minishare1.4.1-bufferoverflow.html
-    https://samsclass.info/127/proj/vuln-server.htm
-    http://www.bulbsecurity.com/finding-bad-characters-with-immunity-debugger-and-mona-py/
-
 
 Cross-Compilation
 
