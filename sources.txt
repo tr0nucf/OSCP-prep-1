@@ -3,15 +3,6 @@ Cross-Compilation [exloits]
     https://arrayfire.com/cross-compile-to-windows-from-linux/
 
 
-**SCP, WGET, FTP, TFTP, CURL, NC, FETCH
-Fuzzing Payloads
-
-    https://github.com/fuzzdb-project/fuzzdb
-    https://github.com/danielmiessler/SecLists
-
-Ignore SSL in python scripts : http://stackoverflow.com/questions/19268548/python-ignore-certicate-validation-urllib2
-
-
 MSFVenom Payloads
 
     http://netsec.ws/?p=331
