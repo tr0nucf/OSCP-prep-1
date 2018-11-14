@@ -37,7 +37,7 @@ Offsec won't make you reinvent the wheel so to speak. In other words you won't n
 10. If you're stuck in the lab/exam unable to run exloit, find vuln.. etc. Look for the server name with association to vulnhub or Hackthebox > sometimes these are 1:1 as the lab practice for example apache + postfix + vulnhub > google result shows dedicated write up for this exact match.
 
 Reconnaisance tips:
-If a specific web app doesn't seem to have any directories exposed
+If a specific web app doesn't seem to have any directories exposed - try to test the name of the domain/subdomain as a potential directory. often that is the case.
 
 Useful links:
     https://bitvijays.github.io/LFC-VulnerableMachines.html
