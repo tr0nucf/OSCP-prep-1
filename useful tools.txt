@@ -2,3 +2,6 @@ Vanquish - https://github.com/frizb/Vanquish
 Vanquish is a Kali Linux based Enumeration Orchestrator built in Python. 
 Vanquish leverages the opensource enumeration tools on Kali to perform multiple active information gathering phases. 
 The results of each phase are fed into the next phase to identify vulnerabilities that could be leveraged for a remote shell.
+
+Reconnoitre  - https://github.com/codingo/Reconnoitre 
+A reconnaissance tool made for the OSCP labs to automate information gathering and service enumeration whilst creating a directory structure to store results, findings and exploits used for each host, recommended commands to execute and directory structures for storing loot and flags. 
