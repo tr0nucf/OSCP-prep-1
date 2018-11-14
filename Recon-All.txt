@@ -5,7 +5,12 @@ RECON/WEB/Subdomains
 
  Directories on each sub (diff tech / app/ infra)
 >dirb
- use Seclists + custom .txt (diff scanner / slightly diff results)
+ Fuzzing Payloads
+
+    https://github.com/fuzzdb-project/fuzzdb
+    https://github.com/danielmiessler/SecLists 
+    Or > custom based on info gathered 
+    + Use different fuzzers for dir scan > might reveral different results 
 
 >nikto (main+each subdomain)
 
