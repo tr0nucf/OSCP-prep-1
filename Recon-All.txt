@@ -12,7 +12,7 @@ dirb
     + Use different fuzzers for dir scan > might reveral different results 
     Scan each sub (diff tech / app/ infra)
 
-nikto (main+each subdomain) / proxy if required 
+nikto (main+each subdomain) / proxy 
 
 Port Scanning
 nmap 
