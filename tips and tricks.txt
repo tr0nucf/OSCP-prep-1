@@ -20,11 +20,9 @@ Look at the custom directories or that you have permissions for, are the files i
 
 try to have one for webapps, smb, windows priv esc, etc...
 
-7. Cheatsheets and helpful links, these will save your life, here are some that I recommend, but there are many many more especially on this subreddit:
+7. Cheatsheets/helpful links
 
 https://backdoorshell.gitbooks.io/oscp-useful-links/content/ - general oscp help
-
-https://github.com/sagishahar/lpeworkshop - windows and linux priv esc help
 
 https://github.com/DigitalAftermath/EnumerationVisualized/wiki - help enumeration guide
 
@@ -39,15 +37,11 @@ Offsec won't make you reinvent the wheel so to speak. In other words you won't n
 Reconnaisance tips:
 If a specific web app doesn't seem to have any directories exposed, 
 
+Useful links:
     https://bitvijays.github.io/LFC-VulnerableMachines.html
     http://blog.knapsy.com/blog/2014/10/07/basic-shellshock-exploitation/
     http://www.studfiles.ru/preview/2083097/page:7/
-    http://126kr.com/article/3vbt0k8fxwh
     http://meyerweb.com/eric/tools/dencoder/
-    https://www.darkoperator.com/powershellbasics
-    https://wooly6bear.files.wordpress.com/2016/01/bwapp-tutorial.pdf 
-    http://alexflor.es/security-blog/post/egress-ports/ 
-    https://www.exploit-db.com/papers/13017/ 
     https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project
     http://explainshell.com/
     https://pentestlab.blog/2012/11/29/bypassing-file-upload-restrictions/
@@ -62,4 +56,4 @@ If a specific web app doesn't seem to have any directories exposed,
     
 
 
-reddit import
+
