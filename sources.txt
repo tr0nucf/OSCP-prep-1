@@ -47,10 +47,5 @@ Samba (SMB)
     https://pen-testing.sans.org/blog/2013/07/24/plundering-windows-account-info-via-authenticated-smb-sessions
     http://www.blackhillsinfosec.com/?p=4645
 
-TTY Shell Spawning
-
-    http://netsec.ws/?p=337
-    https://github.com/infodox/python-pty-shells
-    https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
 
 
