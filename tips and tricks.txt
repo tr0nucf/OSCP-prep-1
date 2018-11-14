@@ -3,7 +3,8 @@ Exam tips (from reddit)
 
 2. If you can't get a low priv shell, you should either
 
-A: enumerate more or google a way to enumerate the service differently, B: think of how what you enumerated can chain together to get a shell or sensitive information, or C: read the exploit you're sending and see if it needs to be edited.
+A: enumerate more or google a way to enumerate the service differently
+B: think of how what you enumerated can chain together to get a shell or sensitive information, or C: read the exploit you're sending and see if it needs to be edited.
 
 3. I've seen alot of posts about how the exam machines are different than the lab, and from what I can tell they're different because you sometimes have to piece together more information. Many of the lab machines follow a simple formula of enumerate services --> searchsploit the service for vulns --> use the exploit to get a low priv shell --> privelege escalation shenanigans. However, in the exam machines it sometimes isn't as simple as just searchsploiting a potentially vulnerable service and then exploiting it.
 
