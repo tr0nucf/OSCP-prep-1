@@ -9,12 +9,6 @@ MSFVenom Payloads
     https://www.offensive-security.com/metasploit-unleashed/msfvenom/
     http://www.blackhillsinfosec.com/?p=4935
 
-Password Cracking
-
-    https://uwnthesis.wordpress.com/2013/08/07/kali-how-to-crack-passwords-using-hashcat/
-    https://hashkiller.co.uk/
-    https://linuxconfig.org/password-cracking-with-john-the-ripper-on-linux
-    http://www.rarpasswordcracker.com/
 
 Pivoting
 
