@@ -1,0 +1,7 @@
+Jailed Shell Escape
+
+    http://netsec.ws/?p=337
+    https://pen-testing.sans.org/blog/2012/06/06/escaping-restricted-linux-shells
+    https://speakerdeck.com/knaps/escape-from-shellcatraz-breaking-out-of-restricted-unix-shells
+    http://airnesstheman.blogspot.ca/2011/05/breaking-out-of-jail-restricted-shell.html
+    http://securebean.blogspot.ca/2014/05/escaping-restricted-shell_3.html
