@@ -1,19 +1,14 @@
 Exam tips (based from external sources & mine)
 
 1. Do the buffer overflow first
-
 2. If you can't get a low priv shell, you should either
-
 A: enumerate more or google a way to enumerate the specific service differently
 B: think of how what you enumerated > can you chain together to get a shell or sensitive information (service_xyz vuln + service_ttt vuln = the specfic exploit that works 
 C: read the exploit you're using and see if it needs editing (based on target info)
-
 3. I've seen alot of posts about how the exam machines are different than the lab, and from what I can tell they're different because you sometimes have to piece together more information. 
 Many of the lab machines follow a simple formula of enumerate services --> searchsploit the service for vulns --> use the exploit to get a low priv shell --> privelege escalation shenanigans. 
 However, in the exam machines it sometimes isn't as simple as just searchsploiting a potentially vulnerable service and then exploiting it.
-
 4. Realize when your going down a rabbit hole.
-
 5. Have a solid methodology for testing. This is probably the most important thing to understand where you are in your methodology you can know what to do next. Not just a high level methodology, but one that really goes into detail. For linux privilege escalation mine kind of looked like this:
 
 Look at the custom directories or that you have permissions for, are the files in these directories sensitive? -->spawn a tty then sudo -l, what can you run with root priveleges? Can you leverage any of these programs? --> Check cron jobs is there anything unusual? --> check for permission on sensitive files that you shouldn't be able to read and/or write such as /etc/passwd. --> Check the kernel version, then searchsploit it --> use ps -aux | grep root to look at any services that are running as root. searchsploit these services.
@@ -21,20 +16,17 @@ Look at the custom directories or that you have permissions for, are the files i
 try to have one for webapps, smb, windows priv esc, etc..
 
 7. Cheatsheets/helpful links
-
 https://backdoorshell.gitbooks.io/oscp-useful-links/content/ - general oscp help
-
 https://github.com/DigitalAftermath/EnumerationVisualized/wiki - help enumeration guide
 
 8. Keep notes!! on the steps you've taken and information you've gained so far for each machine. 
-
 9. Don't forget to take screenshots ESPECIALLY of local.txt and proof.txt with ifconfig/ipconfig.
 
 
 Offsec won't make you reinvent the wheel so to speak. In other words you won't need super complicated exploits to get root. The type of exploits that work on these machines will make you think "why didn't I think of that sooner?" But at the same time, the answer isn't right in your face.
 
 
-10. If you're stuck in the lab/exam unable to run exloit, find vuln.. etc. Look for the server name with association to vulnhub or Hackthebox > sometimes these are 1:1 as the lab practice for example apache + postfix + vulnhub > google result shows dedicated write up for this exact match.
+10. If you're stuck in the lab/exam unable to run exloit, find vuln.. etc. Look for the product name with association to vulnhub or Hackthebox > sometimes these are 1:1 as the lab practice for example apache + postfix + vulnhub > google result shows dedicated write up for this exact match.
 
 Reconnaisance tips:
 If a specific web app doesn't seem to have any directories exposed - try to test the name of the domain/subdomain as a potential directory. often that is the case.
