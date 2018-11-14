@@ -11,12 +11,6 @@ Fuzzing Payloads
 
 Ignore SSL in python scripts : http://stackoverflow.com/questions/19268548/python-ignore-certicate-validation-urllib2
 
-Linux Post-Exploitation
-
-    https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
-    https://github.com/huntergregal/mimipenguin
-    https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
-
 
 MSFVenom Payloads
 
@@ -70,13 +64,4 @@ SQL Injection
     https://blog.scrt.ch/2013/03/24/mongodb-0-day-ssji-to-rce/
     https://websec.ca/kb/sql_injection#MSSQL_Default_Databases
 
-Windows Post-Exploitation
-
-    https://github.com/gentilkiwi/mimikatz/releases/
-    https://github.com/gentilkiwi/mimikatz/wiki/module-~-sekurlsa
-    http://www.handgrep.se/repository/cheatsheets/postexploitation/WindowsPost-Exploitation.pdf
-    https://github.com/PowerShellMafia/PowerSploit
-    https://github.com/gentilkiwi/mimikatz/releases
-    http://www.handgrep.se/repository/cheatsheets/postexploitation/WindowsPost-Exploitation.pdf
-    https://github.com/mubix/post-exploitation/wiki/windows
 
