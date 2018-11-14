@@ -1,6 +1,6 @@
 WEB
 Subdomains
-SubList3r 
+SubLister 
   Web version using its sources (e.g. virustotal) 
 
 Directories
