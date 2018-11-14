@@ -1,4 +1,4 @@
-Exam tips (based from different sources & mine)
+Exam tips (based from external sources & mine)
 
 1. Do the buffer overflow first
 
