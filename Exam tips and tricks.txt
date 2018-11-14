@@ -34,8 +34,10 @@ https://github.com/DigitalAftermath/EnumerationVisualized/wiki - help enumeratio
 Offsec won't make you reinvent the wheel so to speak. In other words you won't need super complicated exploits to get root. The type of exploits that work on these machines will make you think "why didn't I think of that sooner?" But at the same time, the answer isn't right in your face.
 
 
+10. If you're stuck in the lab/exam unable to run exloit, find vuln.. etc. Look for the server name with association to vulnhub or Hackthebox > sometimes these are 1:1 as the lab practice for example apache + postfix + vulnhub > google result shows dedicated write up for this exact match.
+
 Reconnaisance tips:
-If a specific web app doesn't seem to have any directories exposed, 
+If a specific web app doesn't seem to have any directories exposed
 
 Useful links:
     https://bitvijays.github.io/LFC-VulnerableMachines.html
