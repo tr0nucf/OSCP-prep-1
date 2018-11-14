@@ -36,7 +36,8 @@ https://github.com/DigitalAftermath/EnumerationVisualized/wiki - help enumeratio
 Offsec won't make you reinvent the wheel so to speak. In other words you won't need super complicated exploits to get root. The type of exploits that work on these machines will make you think "why didn't I think of that sooner?" But at the same time, the answer isn't right in your face.
 
 
-Other
+Reconnaisance tips:
+If a specific web app doesn't seem to have any directories exposed, 
 
     https://bitvijays.github.io/LFC-VulnerableMachines.html
     http://blog.knapsy.com/blog/2014/10/07/basic-shellshock-exploitation/
