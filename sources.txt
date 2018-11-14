@@ -11,14 +11,6 @@ Fuzzing Payloads
 
 Ignore SSL in python scripts : http://stackoverflow.com/questions/19268548/python-ignore-certicate-validation-urllib2
 
-Jailed Shell Escape
-
-    http://netsec.ws/?p=337
-    https://pen-testing.sans.org/blog/2012/06/06/escaping-restricted-linux-shells
-    https://speakerdeck.com/knaps/escape-from-shellcatraz-breaking-out-of-restricted-unix-shells
-    http://airnesstheman.blogspot.ca/2011/05/breaking-out-of-jail-restricted-shell.html
-    http://securebean.blogspot.ca/2014/05/escaping-restricted-shell_3.html
-
 Linux Post-Exploitation
 
     https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
@@ -88,18 +80,3 @@ Windows Post-Exploitation
     http://www.handgrep.se/repository/cheatsheets/postexploitation/WindowsPost-Exploitation.pdf
     https://github.com/mubix/post-exploitation/wiki/windows
 
-Windows Privilege Escalation
-
-    http://www.fuzzysecurity.com/tutorials/16.html
-    https://toshellandback.com/2015/11/24/ms-priv-esc/
-    https://github.com/pentestmonkey/windows-privesc-check
-    https://blog.gdssecurity.com/labs/2014/7/11/introducing-windows-exploit-suggester.html
-    https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
-    https://github.com/foxglovesec/RottenPotato
-    http://www.exumbraops.com/penetration-testing-102-windows-privilege-escalation-cheatsheet/
-    https://www.youtube.com/watch?v=PC_iMqiuIRQ
-    https://www.youtube.com/watch?v=kMG8IsCohHA&feature=youtu.be
-    https://github.com/PowerShellMafia/PowerSploit
-    http://www.blackhillsinfosec.com/?p=5824
-    https://www.commonexploits.com/unquoted-service-paths/
-    https://github.com/abatchy17/WindowsExploits
