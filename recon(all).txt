@@ -1,21 +1,15 @@
-$RECON/WEB/Subdomains 
+RECON/WEB/Subdomains 
 >SubList3r 
 Web version using its sources (e.g. virustotal) 
 Directories on each sub (diff tech / app/ infra)
-
 >dirb
- use Seclists + custom .txt (diff scanner / slightly diff results)
-
+use Seclists + custom .txt (diff scanner / slightly diff results)
 >nikto (main+each subdomain)
-Services / ports
 
-
-$RECON/Port Scanning
-
+RECON/Port Scanning
 >nmap 
 https://nmap.org/nsedoc/
--sn | A | Pn | T(x) | C | do not forget UDP scan 
-  
+-sn | A | Pn | T(x) | C | do not forget UDP scan  
 >0daysecurity 
 http://0daysecurity.com/penetration-testing/enumeration.html  
 
