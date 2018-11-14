@@ -33,7 +33,7 @@ If a specific web app doesn't seem to have any directories exposed - try to test
 e.g. > xaxa1.e231.com/e231 or  xaxa1.e231.com/xaxa1
 
 
-Useful links:
+Useful links
     https://bitvijays.github.io/LFC-VulnerableMachines.html
     http://blog.knapsy.com/blog/2014/10/07/basic-shellshock-exploitation/
     http://www.studfiles.ru/preview/2083097/page:7/
