@@ -18,7 +18,7 @@ However, in the exam machines it sometimes isn't as simple as just searchsploiti
 
 Look at the custom directories or that you have permissions for, are the files in these directories sensitive? -->spawn a tty then sudo -l, what can you run with root priveleges? Can you leverage any of these programs? --> Check cron jobs is there anything unusual? --> check for permission on sensitive files that you shouldn't be able to read and/or write such as /etc/passwd. --> Check the kernel version, then searchsploit it --> use ps -aux | grep root to look at any services that are running as root. searchsploit these services.
 
-try to have one for webapps, smb, windows priv esc, etc...
+try to have one for webapps, smb, windows priv esc, etc..
 
 7. Cheatsheets/helpful links
 
