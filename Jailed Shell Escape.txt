@@ -5,3 +5,5 @@ Jailed Shell Escape
     https://speakerdeck.com/knaps/escape-from-shellcatraz-breaking-out-of-restricted-unix-shells
     http://airnesstheman.blogspot.ca/2011/05/breaking-out-of-jail-restricted-shell.html
     http://securebean.blogspot.ca/2014/05/escaping-restricted-shell_3.html
+    https://github.com/infodox/python-pty-shells
+    https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
