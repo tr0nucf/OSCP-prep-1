@@ -1,4 +1,4 @@
-Linux Privilege Escalation
+Linux Privilege Escalation-
 
     https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
     https://www.kernel-exploits.com/
@@ -13,7 +13,7 @@ Linux Privilege Escalation
     https://www.rebootuser.com/?p=1758 
     
     
-Windows Privilege Escalation
+Windows Privilege Escalation-
 
     http://www.fuzzysecurity.com/tutorials/16.html
     https://toshellandback.com/2015/11/24/ms-priv-esc/
