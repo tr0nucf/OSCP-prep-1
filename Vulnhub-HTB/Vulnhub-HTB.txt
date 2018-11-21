@@ -1,4 +1,31 @@
-Vulnhub VMs
+
+
+Training/Classes/Video
+
+https://exploit-exercises.com
+https://www.cybrary.it/cyber-security/
+http://www.irongeek.com/i.php?page=videos/aide-winter-2011
+https://lab.pentestit.ru/pentestlabs/3
+https://trailofbits.github.io/ctf/
+http://ctf.forgottensec.com/wiki/?title=Main_Page
+http://smashthestack.org/
+http://ctf.hcesperer.org/
+https://www.google.com/calendar/feeds/noge7b1rg2dg4a8kcm1k68vbjg@group.calendar.google.com/public/basic
+https://www.google.com/calendar/embed?src=pe2ikdbe6b841od6e26ato0asc@group.calendar.google.com&gsessionid=OK
+https://crypto.stanford.edu/cs155/
+https://www.offensive-security.com/metasploit-unleashed/
+http://www.irongeek.com/i.php?page=videos/metasploit-class
+http://www.securitytube.net/
+http://resources.infosecinstitute.com/
+https://www.cs.fsu.edu/~redwood/OffensiveSecurity/lectures.html
+https://www.youtube.com/watch?v=ANlROJNWtCs&list=PLM0IiVYClP2vC3A6Uz_ESV86kBVYei5qx
+https://www.youtube.com/watch?v=Sye3mu-EoTI
+https://www.youtube.com/watch?v=GPjcSxyIIUc
+https://www.youtube.com/watch?v=kPxavpgos2I
+https://www.youtube.com/watch?v=pnqcHU2qFiA
+http://www.securitytube.net/video/7640
+https://www.youtube.com/watch?v=y2zrEAwmdws
+http://www.securitytube.net/video/7735Vulnhub VMs
 
 A few Vulnhub VMs. I recommend trying out a few before the exam or when your lab time expires.
 
