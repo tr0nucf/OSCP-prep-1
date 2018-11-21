@@ -10,7 +10,7 @@ Recon tools/techniques & Automatic recon tools
 Web app testing (SQL/XSS/LFI/etc)
 --
 Pass-cracking 
-==
+--
 Exploit Search Engines
 --
 Cross-compiling exploits
