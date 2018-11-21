@@ -1,7 +1,6 @@
-WEB
-Subdomains
+For Web Subdomains use
 SubLister 
-  Web version using its sources (e.g. virustotal) 
+a light web alterantive is using its sources (e.g. virustotal/etc) or google for "site:*.target.com -site:www.target.com"
 
 Directories
 dirb
