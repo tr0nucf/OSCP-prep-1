@@ -32,3 +32,5 @@ WAF-testing
 --
 Web app testing (SQL/XSS/LFI/etc)
 -- 
+My Exam tips and tricks 
+--
