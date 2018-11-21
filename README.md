@@ -2,38 +2,33 @@
 collection of my oscp prep toolbox:
 Summary;
  
-Exploits 
-Exploits Search Engines
+Exploit Search Engines
 --
 OSCP write-ups 
 --
-Recon 
-Automatic recon tools
+Recon tools/techniques & Automatic recon tools
 --
-Vulnhub-HTB - and hacking training sources
-Writeups to machines 
+Vulnhub-HTB Writeups / training
 --
-Backdoors-Web Shells how-to 
 Collection of Backdoors / Web Shells 
 --
 Cross-compiling exploits
 -- 
-Dedicated-exploitation-frameworks.txt 
+Dedicated-exploitation-frameworks(AWS/CLOUD/ETC)
 -- 
 File Transfer techniques
 --
 Jailed Shells escape techniques
 --
-Pass-cracking techniques 
+Pass-cracking 
 --
 Pivoting guides 
 --
-Post exploitaion Win+Linux
+Post exploitaion Windows+Linux
 --
 Linux&Windows priv esc guides 
 --
 WAF-testing
 --
-Web app testing 
-SQL/XSS/LFI/etc.
+Web app testing (SQL/XSS/LFI/etc)
 -- 
