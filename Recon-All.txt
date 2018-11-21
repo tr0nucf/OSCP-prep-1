@@ -1,24 +1,25 @@
 For Web Subdomains use
 SubLister 
-a light web alterantive is using its sources (e.g. virustotal/etc) or google for "site:*.target.com -site:www.target.com"
+a light web alterantive is using its sources (e.g. virustotal/etc) or google for "site:*.target.com -site:www.target.com" - no noise
+another fast alternative is massdns 
+https://github.com/blechschmidt/massdns - a lot of FP
 
 Directories
 dirb
- Fuzzing Payloads
-    https://github.com/fuzzdb-project/fuzzdb
-    https://github.com/danielmiessler/SecLists 
-    Or > custom based on info gathered 
-    + Use different fuzzers for dir scan > might reveral different results 
-    Scan each sub (diff tech / app/ infra)
+Fuzzing Payloads
+https://github.com/fuzzdb-project/fuzzdb
+https://github.com/danielmiessler/SecLists 
+Or > custom based on info gathered 
++ Use different fuzzers for dir scan > might reveral different results 
+Scan each sub (diff tech / app/ infra)
 
-nikto (main+each subdomain) / proxy 
+nikto (main+subs) / proxy 
 
 Port Scanning
 nmap 
  https://nmap.org/nsedoc/
  -sn | A | Pn | T(x) | C | do not forget UDP scan  
-
-0daysecurity 
- http://0daysecurity.com/penetration-testing/enumeration.html  
+ 
+ alternative is massscan - FP 
 
  
