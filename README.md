@@ -1,5 +1,5 @@
-# OSCP-prep
-collection of my oscp prep toolbox:
+# My OSCP-prep collection
+
 Summary;
  
 Exploit Search Engines
