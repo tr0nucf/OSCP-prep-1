@@ -2,9 +2,10 @@
 
 Summary;
  
-Exploit Search Engines
+ 
+BufferOverflows-Training+write-ups 
 --
-OSCP write-ups 
+Exploit Search Engines
 --
 Recon tools/techniques & Automatic recon tools
 --
@@ -33,4 +34,6 @@ WAF-testing
 Web app testing (SQL/XSS/LFI/etc)
 -- 
 My Exam tips and tricks 
+--
+OSCP write-ups 
 --
