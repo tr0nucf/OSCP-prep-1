@@ -1,24 +1,15 @@
+Other people's exp and journey to OSCP and some of my favorite 
 
+https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440?source=user_profile---------13------------------
+https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-2-workflow-and-documentation-tips-9dd335204a48 
 
+https://medium.com/@cosmin.ciobanu/the-only-oscp-advice-you-will-need-ae141060b87c
 
-MSFVenom Payloads
+https://0x00sec.org/t/rains-pwk-oscp-write-up-and-ama/8164
 
-    http://netsec.ws/?p=331
-    https://www.offensive-security.com/metasploit-unleashed/msfvenom/
-    http://www.blackhillsinfosec.com/?p=4935
+https://scriptdotsh.com/index.php/2018/04/17/31-days-of-oscp-experience/
 
+https://www.lewisecurity.com/i-am-finally-an-oscp/ 
 
+https://prasannakumar.in/infosec/my-walk-towards-cracking-oscp/ 
 
-Remote Desktop Protocol (RDP)
-
-    https://serverfault.com/questions/148731/enabling-remote-desktop-with-command-prompt
-    https://serverfault.com/questions/200417/ideal-settings-for-rdesktop
-
-Samba (SMB)
-
-    https://pen-testing.sans.org/blog/2013/07/24/plundering-windows-account-info-via-authenticated-smb-sessions
-    http://www.blackhillsinfosec.com/?p=4645
-
-
-
-https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/ 
