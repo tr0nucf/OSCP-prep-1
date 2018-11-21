@@ -1,39 +1,39 @@
 # My OSCP-prep collection
 
-Summary;
+Summary
  
  
 BufferOverflows-Training+write-ups 
 --
-Exploit Search Engines
---
 Recon tools/techniques & Automatic recon tools
 --
-Vulnhub-HTB Writeups / training
+Web app testing (SQL/XSS/LFI/etc)
+--
+Pass-cracking 
+==
+Exploit Search Engines
+--
+Cross-compiling exploits
 --
 Collection of Backdoors / Web Shells 
 --
-Cross-compiling exploits
--- 
-Dedicated-exploitation-frameworks(AWS/CLOUD/ETC)
--- 
-File Transfer techniques
+Linux&Windows priv esc guides 
 --
 Jailed Shells escape techniques
 --
-Pass-cracking 
+Post exploitaion Windows+Linux
+--
+File Transfer techniques
+-- 
+Dedicated-exploitation-frameworks(AWS/CLOUD/ETC)
 --
 Pivoting guides 
 --
-Post exploitaion Windows+Linux
---
-Linux&Windows priv esc guides 
---
 WAF-testing
---
-Web app testing (SQL/XSS/LFI/etc)
 -- 
 My Exam tips and tricks 
 --
 OSCP write-ups 
+--
+Vulnhub-HTB Writeups / training
 --
