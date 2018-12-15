@@ -59,3 +59,4 @@ hacker@beta:~$ export PATH=$PATH:/usr/bin
     http://securebean.blogspot.ca/2014/05/escaping-restricted-shell_3.html
     https://github.com/infodox/python-pty-shells
     https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
+https://pen-testing.sans.org/blog/2012/06/06/escaping-restricted-linux-shells
