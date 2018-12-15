@@ -1,5 +1,47 @@
 Jailed Shell Escape
 
+There is a lot of different restricted shells to choose from. Some of them are just normal shells with some simple common restrictions not actually configurable, such as rbash (restricited Bash), rzsh and rksh (Korn Shell in restricted mode), which are really trivial to bypass. Others have a complete configuration set that can be redesigned to fit administrator’s needs such as lshell (Limited Shell) and rssh (Restricted Secure Shell).
+
+A Restricted Shell... What Is It?
+
+It limits a user's ability and only allows them to perform a subset of system commands. Typically, a combination of some or all of the following restrictions are imposed by a restricted shell:
+
+    Using the 'cd' command to change directories.
+    Setting or unsetting certain environment variables (i.e. SHELL, PATH, etc...).
+    Specifying command names that contain slashes.
+    Specifying a filename containing a slash as an argument to the '.' built-in command.
+    Specifying a filename containing a slash as an argument to the '-p' option to the 'hash' built-in command.
+    Importing function definitions from the shell environment at startup.
+    Parsing the value of SHELLOPTS from the shell environment at startup.
+    Redirecting output using the '>', '>|', ", '>&', '&>', and '>>' redirection operators.
+    Using the 'exec' built-in to replace the shell with another command.
+    Adding or deleting built-in commands with the '-f' and '-d' options to the enable built-in.
+    Using the 'enable' built-in command to enable disabled shell built-ins.
+    Specifying the '-p' option to the 'command' built-in.
+    Turning off restricted mode with 'set +r' or 'set +o restricted'.
+    
+    Restrictions Implemented in rbash
+
+    cd command (Change Directory)
+    PATH (setting/ unsetting)
+    ENV aka BASH_ENV (Environment Setting/ unsetting)
+    Importing Function
+    Specifying file name containing argument ‘/’
+    Specifying file name containing argument ‘-‘
+    Redirecting output using ‘>‘, ‘>>‘, ‘>|‘, ‘<>‘, ‘>&‘, ‘&>‘
+    turning off restriction using ‘set +r‘ or ‘set +o‘
+https://www.tecmint.com/rbash-a-restricted-bash-shell-explained-with-practical-examples/
+    
+    https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
     http://netsec.ws/?p=337
     https://pen-testing.sans.org/blog/2012/06/06/escaping-restricted-linux-shells
     https://speakerdeck.com/knaps/escape-from-shellcatraz-breaking-out-of-restricted-unix-shells
