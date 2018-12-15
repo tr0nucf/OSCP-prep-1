@@ -31,7 +31,6 @@ It limits a user's ability and only allows them to perform a subset of system co
     Redirecting output using ‘>‘, ‘>>‘, ‘>|‘, ‘<>‘, ‘>&‘, ‘&>‘
     turning off restriction using ‘set +r‘ or ‘set +o‘
 https://www.tecmint.com/rbash-a-restricted-bash-shell-explained-with-practical-examples/
-    
     https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/ 
     
     
@@ -51,6 +50,73 @@ bash: groups: command not found
 hacker@beta:~$ export PATH=$PATH:/bin/
 hacker@beta:~$ export PATH=$PATH:/usr/bin
     https://hk.saowen.com/a/fdc328ee0d838a7a3598aa5c462528baed2059e624dcda633b736a3b0337223c 
+    
+    
+    Editors
+
+One of the most well documented techniques is to spawn a shell from within an editor such as 'vi' or 'vim'. Open any file using one of these editors and type the following and execute it from within the editor:
+
+:set shell=/bin/bash
+
+Next, type and execute:
+
+:shell
+
+Another method is to type:
+
+:! /bin/bash
+
+If either of these works, you will have an unrestricted shell from within the editor. Most modern restricted shells already defend against this hack, but it's always worth a shot. You may be working from a restricted editor such as rvi or rvim, which will almost certainly stop a shell from spawning. Also, try different shells with this technique and ones that follow as some restricted shells may block 'sh' or 'bash'.
+
+Awk Command
+
+If you can run 'awk', you can attempt to execute a shell from within it.
+
+Type the following:
+
+awk 'BEGIN {system("/bin/sh")}'
+
+If successful, you'll see an unrestricted shell prompt!
+
+Find Command
+
+If the 'find' command is present, you can attempt to use the '-exec' function within it.
+
+Type the following:
+
+find / -name blahblah -exec /bin/awk 'BEGIN {system("/bin/sh")}' \;
+
+Again, if successful, you'll see a blinking cursor at an unrestricted shell prompt! Note that in the above example, you are able to call the 'awk' command even if it is not present in our PATH. This is important because you are able to bypass the restriction of only being permitted to execute commands in your PATH. You are not limited to the 'awk' command.
+
+More, Less, and Man Commands
+
+There is a known escape within these commands. After you use the 'more', 'less', or 'man' command with a file, type '!' followed by a command. For instance, try the following once inside the file:
+
+'! /bin/sh'
+'!/bin/sh'
+'!bash'
+
+Like the shell escape in 'awk' and 'find', if successful, you'll be sitting at an unrestricted shell prompt. Note you can try different shells, and the space after the '!' may not matter.
+
+Tee Command
+
+If you do not have access to an editor, and would like to create a script, you can make use of the 'tee' command. Since you cannot make use of '>' or '>>', the 'tee' command can help you direct your output when used in tandem with the 'echo' command. This is not a shell escape in of itself, but consider the following:
+
+echo "evil script code" | tee script.sh
+
+You will be able to create a file called script.sh in your home directory and add your script code to the file. Once the file is created, use the 'tee -a' option for all subsequent commands as the '-a' allows you to append to the file rather than overwrite the file.
+Favorite Language?
+
+Try invoking a SHELL through your favorite language:
+
+    python: exit_code = os.system('/bin/sh') output = os.popen('/bin/sh').read()
+    perl -e 'exec "/bin/sh";'
+    perl: exec "/bin/sh";
+    ruby: exec "/bin/sh"
+    lua: os.execute('/bin/sh')
+    irb(main:001:0> exec "/bin/sh"
+
+
     
     http://netsec.ws/?p=337
     https://pen-testing.sans.org/blog/2012/06/06/escaping-restricted-linux-shells
