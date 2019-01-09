@@ -2,7 +2,7 @@
 
 Summary
  
- 
+[I'm an inline-style link](https://www.google.com)
 BufferOverflows-Training+write-ups 
 --
 Recon tools/techniques & Automatic recon tools
