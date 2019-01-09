@@ -32,7 +32,7 @@
 
 [My Exam tips and tricks](https://www.google.com)
 
-[OSCP write-ups](https://www.google.com)
+[OSCP write-ups](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/OSCP%20write-ups/Journey-Exam-Writeups.txt)
 
 [Vulnhub-HTB Writeups / training](https://www.google.com)
 
