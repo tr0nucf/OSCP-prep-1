@@ -1,6 +1,6 @@
 ## My OSCP-prep collection
 
-[Kali OS](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Kali-Env)
+[Kali OS](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Kali-Env)
  
 [BufferOverflows-Training+write-ups](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/BOF/BOF-practice.txt)
 
