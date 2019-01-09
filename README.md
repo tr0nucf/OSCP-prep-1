@@ -16,7 +16,7 @@
 
 [Collection of Backdoors / Web Shells](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Backdoors-Web%20Shells.txt)
 
-[Linux&Windows priv esc guides](https://github.com/Eva-Prokofiev/OSCP-prep/blob/masterOther//Priv%20Esc%20Linux%20%2B%20Windows.txt)
+[Linux&Windows priv esc guides](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Priv%20Esc%20Linux%20%2B%20Windows.txt)
 
 [Jailed Shells escape techniques](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Restricted%20Shells%20Escape.txt)
 
