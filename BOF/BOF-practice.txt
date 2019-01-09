@@ -1,5 +1,27 @@
 Buffer Overflows
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     http://www.primalsecurity.net/0x0-exploit-tutorial-buffer-overflow-vanilla-eip-overwrite-2/
     http://proactivedefender.blogspot.ca/2013/05/understanding-buffer-overflows.html
     http://justpentest.blogspot.ca/2015/07/minishare1.4.1-bufferoverflow.html
@@ -11,3 +33,4 @@ Buffer Overflows
     Vulnhub VM:https://www.vulnhub.com/entry/brainpan-1,51/ 
     Write-up:https://blog.vonhewitt.com/2017/11/brainpan1/ 
     Youtube:https://www.youtube.com/watch?v=ohCY8CD6mSs (3 part series)
+
