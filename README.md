@@ -1,5 +1,6 @@
 ## My OSCP-prep collection
 
+ [Kali OS](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Kali-Env)
  
 [BufferOverflows-Training+write-ups](https://www.google.com)
 --
