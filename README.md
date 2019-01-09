@@ -3,35 +3,35 @@
  
 [BufferOverflows-Training+write-ups](https://www.google.com)
 --
-[Recon tools/techniques & Automatic recon tools]
+[Recon tools/techniques & Automatic recon tools](https://www.google.com)
 --
-[Web app testing (SQL/XSS/LFI/etc)]
+[Web app testing (SQL/XSS/LFI/etc)](https://www.google.com)
 --
-[Pass-cracking] 
+[Pass-cracking](https://www.google.com)
 --
-[Exploit Search Engines]
+[Exploit Search Engines](https://www.google.com)
 --
-[Cross-compiling exploits]
+[Cross-compiling exploits](https://www.google.com)
 --
-[Collection of Backdoors / Web Shells]
+[Collection of Backdoors / Web Shells](https://www.google.com)
 --
-[Linux&Windows priv esc guides]
+[Linux&Windows priv esc guides](https://www.google.com)
 --
-[Jailed Shells escape techniques]
+[Jailed Shells escape techniques](https://www.google.com)
 --
-[Post exploitaion Windows+Linux]
+[Post exploitaion Windows+Linux](https://www.google.com)
 --
-[File Transfer techniques]
+[File Transfer techniques](https://www.google.com)
 -- 
-[Dedicated-exploitation-frameworks(AWS/CLOUD/ETC)]
+[Dedicated-exploitation-frameworks(AWS/CLOUD/ETC)](https://www.google.com)
 --
-[Pivoting guides]
+[Pivoting guides](https://www.google.com)
 --
-[WAF-testing]
+[WAF-testing](https://www.google.com)
 -- 
-[My Exam tips and tricks]
+[My Exam tips and tricks](https://www.google.com)
 --
-[OSCP write-ups]
+[OSCP write-ups](https://www.google.com)
 --
-[Vulnhub-HTB Writeups / training]
+[Vulnhub-HTB Writeups / training](https://www.google.com)
 --
