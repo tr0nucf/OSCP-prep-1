@@ -1,5 +1,24 @@
 Linux Privilege Escalation-
 
+Manual:
+Gathering Environment Information
+
+Once we have access to a restricted shell, before we can go any further on all techniques, the first step is to gather as much information as possible about our current shell environment. The information gathered will give us an idea of what kind of restricted shell we are in and also the features provided and the techniques we can use, which are totally dependent on the environment found. Among some tests we can perform:
+
+ >> Check available commands either by trying them out by hand, hitting TAB key twice or listing files and directories;
+ >> Check for commands configured with SUID permissions, specially if they are owned by root user. If these commands have escapes, they can be run with root permissions and will be our way out, or in. Oh, you got the point!.
+ >> Check the list of commands you can use with sudo. This will let us execute commands with other user’s permissions by using our own password. This is specially good when configured for commands with escape features.
+ >> Check what languages are at your disposal, such as python, expect, perl, ruby, etc. They will come in handy later on;
+ >> Check if redirect operators are available, such as '|' (pipe), “>”, “>>”, “<”;
+ >> Check for escape characters and execution tags such as: “;” (colon), “&” (background support), “’” (single quotes), “” (double-quotes), “$(“ (shell execution tag), “${“
+
+>> OBS: The easiest way to check for redirect operators, escape characters and execution tags is to use them in commands as arguments or part of arguments, and later analyze the output for errors.
+
+>> If some available command is unknown to you, install them in your own test Linux box and analyze its features, manual, etc. Sometimes downloading and inspecting the code itself is a life changer for hidden functions that may not appear in the manual.
+
+>> Try to determine what kind of shell you are in. This is not easy depending on the configuration in place, but can be performed by issuing some commands and checking for general error messages. Here are some error message examples from different restricted shells around:
+
+    https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/
     https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
     https://www.kernel-exploits.com/
     https://github.com/rebootuser/LinEnum
@@ -11,6 +30,8 @@ Linux Privilege Escalation-
     https://www.youtube.com/watch?v=dk2wsyFiosg
     http://resources.infosecinstitute.com/privilege-escalation-linux-live-examples/#gref
     https://www.rebootuser.com/?p=1758 
+Upload on local > download privesc script 
+
     
     
 Windows Privilege Escalation-
