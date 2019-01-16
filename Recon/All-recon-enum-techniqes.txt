@@ -1,10 +1,15 @@
-For Web Subdomains use
-SubLister 
-a light web alterantive is using its sources (e.g. virustotal/etc) or google for "site:*.target.com -site:www.target.com" - no noise
-another fast alternative is massdns 
-https://github.com/blechschmidt/massdns - a lot of FP
+Subdomains:
+==========
+active:
+massdns
+sublist3r
+knock
+passive:
+a light web alterantive is using its sources (e.g. virustotal/etc) 
+google for "site:*.target.com -site:www.target.com" - no noise
 
-Directories
+Dirs:
+====
 dirb
 Fuzzing Payloads
 https://github.com/fuzzdb-project/fuzzdb
@@ -19,7 +24,8 @@ Port Scanning
 nmap 
  https://nmap.org/nsedoc/
  -sn | A | Pn | T(x) | C | do not forget UDP scan  
- 
- alternative is massscan - FP 
+
+massscan - FP output
+
 
  
