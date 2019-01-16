@@ -34,7 +34,7 @@ Upload on local > download privesc script
 
     
     
-Windows Privilege Escalation-
+Windows Privilege Escalation-dfg
 
     http://www.fuzzysecurity.com/tutorials/16.html
     https://toshellandback.com/2015/11/24/ms-priv-esc/
