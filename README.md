@@ -18,8 +18,6 @@
 
 [Linux&Windows priv esc guides](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Priv%20Esc%20Linux%20%2B%20Windows.txt)
 
-[Jailed Shells escape techniques](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Restricted%20Shells%20Escape.txt)
-
 [File Transfer techniques](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/File%20Transfer.txt)
 
 [Dedicated-exploitation-frameworks(AWS/CLOUD/ETC)](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Dedicated-exploitation-frameworks.txt)
