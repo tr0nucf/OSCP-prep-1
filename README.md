@@ -20,8 +20,6 @@
 
 [Jailed Shells escape techniques](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Restricted%20Shells%20Escape.txt)
 
-[Post exploitaion Windows+Linux](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Post%20exploitaion%20Win%2BLinux.txt)
-
 [File Transfer techniques](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/File%20Transfer.txt)
 
 [Dedicated-exploitation-frameworks(AWS/CLOUD/ETC)](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Dedicated-exploitation-frameworks.txt)
