@@ -1,4 +1,4 @@
-File Transfer - when want to transfer either shells 
+File Transfer 
 
 
 Simple Local Web Servers (for serving shells, etc)
