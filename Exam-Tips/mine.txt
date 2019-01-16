@@ -4,8 +4,10 @@ Look for the product name with association to vulnhub or Hackthebox
 
 Reconnaisance tips:
 If a specific web app doesn't seem to have any directories exposed - 
-try to test the name of the domain/subdomain as a potential directory. often that is the case.
-e.g. > xaxa1.e231.com/e231 or  xaxa1.e231.com/xaxa1
+try to test the name of the domain/subdomain as a potential directory.
+OR
+CMS name/ forum name/ users / other indicators. 
+e.g. > target.e231.com/e231 or  target.e231.com/target
 
 Viewing L***.txt or P***.txt 
 If  can't open or view 
