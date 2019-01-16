@@ -5,9 +5,8 @@ massdns
 sublist3r
 knock
 passive:
-a light web alterantive is using its sources (e.g. virustotal/etc) 
-google for "site:*.target.com -site:www.target.com" - no noise
-
+trough the tool sources (VT/SE)
+google dorks- for "site:*.target.com -site:www.target.com" 
 Dirs:
 ====
 dirb
