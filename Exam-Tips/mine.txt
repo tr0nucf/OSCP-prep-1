@@ -6,3 +6,9 @@ Reconnaisance tips:
 If a specific web app doesn't seem to have any directories exposed - 
 try to test the name of the domain/subdomain as a potential directory. often that is the case.
 e.g. > xaxa1.e231.com/e231 or  xaxa1.e231.com/xaxa1
+
+Viewing L***.txt or P***.txt 
+If  can't open or view 
+try cat -A 
+try with vim 
+if viewing doesnt work at all - download to local machine 
