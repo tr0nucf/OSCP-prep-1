@@ -1,4 +1,4 @@
-Exam tips (based from external sources & mine)
+Exam tipsfrom reddit - collection
 
 1. Do the buffer overflow first
 2. If you can't get a low priv shell, you should either
