@@ -5,6 +5,7 @@ Linux Privilege Escalation-
 MANUAL TESTS
     https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/
     https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+    add here spec pdf
 
 Download env-check/priv-esc script / insert env setting output from local srv
     https://github.com/rebootuser/LinEnum
