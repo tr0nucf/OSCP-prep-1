@@ -1,6 +1,6 @@
 ## :hearts: My OSCP-prep collection :hearts:
 
-[Kali OS](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Kali-Env)
+[Kali commands](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Kali-Env)
  
 [BufferOverflows-Training+write-ups](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/BOF/BOF-practice.txt)
 
