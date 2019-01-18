@@ -1,10 +1,17 @@
-Backdoors/Web Shells
+Web Shells
 
-    http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet 
+PHP
+PERL
+PYTHON
+BASH
+NETCAT
+TELNET
+
+
+
     https://highon.coffee/blog/reverse-shell-cheat-sheet/
     http://pentestmonkey.net/tools/web-shells/php-reverse-shell
     http://pentestmonkey.net/tools/web-shells/perl-reverse-shell
-    https://github.com/bartblaze/PHP-backdoors
     https://github.com/BlackArch/webshells
     https://github.com/tennc/webshell/tree/master/php/b374k
     https://github.com/tennc/webshell/tree/master/php/PHPshell/c99shell
