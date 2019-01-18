@@ -1,7 +1,0 @@
-Vanquish - https://github.com/frizb/Vanquish 
-Reconnoitre  - https://github.com/codingo/Reconnoitre 
-Osmedeus 
-https://amp.kitploit.com/2018/11/osmedeus-automatic-reconnaisance-and.html
-BabySploit
-https://amp.kitploit.com/2018/11/babysploit-babysplot-beginner.html
-
