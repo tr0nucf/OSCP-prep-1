@@ -4,13 +4,11 @@
  
 [BufferOverflows-Training+write-ups](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/BOF/BOF-practice.txt)
 
-[Recon tools/techniques & Automatic recon tools](https://github.com/Eva-Prokofiev/OSCP-prep/tree/master/Recon)
+[Recon tools & Google-hacking](https://github.com/Eva-Prokofiev/OSCP-prep/tree/master/Recon)
 
-[Web app testing (SQL/XSS/LFI/etc)](https://github.com/Eva-Prokofiev/OSCP-prep/tree/master/Web-app%20testing)
+[Web app testing](https://github.com/Eva-Prokofiev/OSCP-prep/tree/master/Web-app%20testing)
 
 [Pass-cracking](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Pass-cracking.txt)
-
-[Exploit Search Engines](https://github.com/Eva-Prokofiev/OSCP-prep/tree/master/Exploits/Exploits-Search-Engines.txt)
 
 [Cross-compiling exploits](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Cross-compiling.txt)
 
