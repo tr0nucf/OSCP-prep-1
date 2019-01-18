@@ -26,4 +26,7 @@ nmap
 masscan
 
 
- 
+ Vanquish - https://github.com/frizb/Vanquish 
+Reconnoitre  - https://github.com/codingo/Reconnoitre 
+Osmedeus 
+https://amp.kitploit.com/2018/11/osmedeus-automatic-reconnaisance-and.html
