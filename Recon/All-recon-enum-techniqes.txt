@@ -19,12 +19,11 @@ Scan each sub (diff tech / app/ infra)
 
 nikto (main+subs) / proxy 
 
-Port Scanning
+Port
 nmap 
  https://nmap.org/nsedoc/
- -sn | A | Pn | T(x) | C | do not forget UDP scan  
-
-massscan - FP output
+ -sn | A | Pn | T(x) | C | sU (UDP)
+masscan
 
 
  
