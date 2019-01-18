@@ -212,3 +212,19 @@ Web Exploitation
     http://www.studfiles.ru/preview/2083097/page:7/
     http://126kr.com/article/3vbt0k8fxwh
     http://meyerweb.com/eric/tools/dencoder/
+
+
+Other people's exp and journey to OSCP and some of my favorite 
+
+https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440?source=user_profile---------13------------------
+https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-2-workflow-and-documentation-tips-9dd335204a48 
+
+https://medium.com/@cosmin.ciobanu/the-only-oscp-advice-you-will-need-ae141060b87c
+
+https://0x00sec.org/t/rains-pwk-oscp-write-up-and-ama/8164
+
+https://scriptdotsh.com/index.php/2018/04/17/31-days-of-oscp-experience/
+
+https://www.lewisecurity.com/i-am-finally-an-oscp/ 
+
+https://prasannakumar.in/infosec/my-walk-towards-cracking-oscp/ 
