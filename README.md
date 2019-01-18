@@ -18,7 +18,7 @@
 
 [File Transfer techniques](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/File%20Transfer.txt)
 
-[Dedicated-exploitation-frameworks(AWS/CLOUD/ETC)](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Dedicated-exploitation-frameworks.txt)
+[Other](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Dedicated-exploitation-frameworks.txt)
 
 [Pivoting guides](https://github.com/Eva-Prokofiev/OSCP-prep/blob/master/Other/Pivoting.txt)
 
