@@ -1,6 +1,0 @@
-Password Cracking
-
-    https://uwnthesis.wordpress.com/2013/08/07/kali-how-to-crack-passwords-using-hashcat/
-    https://hashkiller.co.uk/
-    https://linuxconfig.org/password-cracking-with-john-the-ripper-on-linux
-    http://www.rarpasswordcracker.com/
