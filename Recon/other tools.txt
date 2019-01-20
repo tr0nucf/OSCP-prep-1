@@ -7,6 +7,7 @@ knock
 passive:
 trough the tool sources (VT/SE)
 google dorks- for "site:*.target.com -site:www.target.com" 
+
 Dirs:
 ====
 dirb
@@ -26,7 +27,5 @@ nmap
 masscan
 
 
- Vanquish - https://github.com/frizb/Vanquish 
-Reconnoitre  - https://github.com/codingo/Reconnoitre 
-Osmedeus 
-https://amp.kitploit.com/2018/11/osmedeus-automatic-reconnaisance-and.html
+Vanquish - https://github.com/frizb/Vanquish 
+
